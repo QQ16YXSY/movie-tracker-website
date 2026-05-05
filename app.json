@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79ad0481-ea75-4774-a224-867e00e0edd5"
+      }
+    },
+    "owner": "yanxiaosiyi"
   }
 }
